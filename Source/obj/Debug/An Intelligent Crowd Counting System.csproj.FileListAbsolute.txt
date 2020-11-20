@@ -1,0 +1,19 @@
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\An Intelligent Crowd Counting System.csprojAssemblyReference.cache
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PictureViewer.resources
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProgressForm.resources
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\An Intelligent Crowd Counting System.csproj.GenerateResource.cache
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\An Intelligent Crowd Counting System.csproj.CoreCompileInputs.cache
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\An Intelligent Crowd Counting System.csproj.CopyComplete
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Shafi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,1 @@
+{"model_id":"98d753c0-3466-4eff-a7a5-c60ec466caab","model_type":"localization","state":6,"status":"Retraining in progress","accuracy":98.987366,"categories":[{"name":"pedestrian","count":1129}],"email":"","is_public":false}
