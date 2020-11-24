@@ -3,7 +3,7 @@
 ## Installation
 * Extract the cloned file
 
-## Operation:
+## Launching
 ### To Count Pedestrians:
 1. Run Pedcount.exe to start the application.
 2. Load an image (image with pedestrians)
