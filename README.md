@@ -17,3 +17,6 @@
 ### To Check Status of the Model:
 1.Click on Check Status
 
+* C# Code can be found in Source folders.
+* Python Scripts will be in nanonets pedestrian detection
+
